@@ -37,19 +37,6 @@ negative, and which categories actually respond to discounts?**
 `A/B Testing` `Statistical Significance Testing`
 
 ---
-
-## 📁 Project Structure
-
-pricing-discount-project/
-├── Pricing_Discount_Analysis.ipynb  ← Full analysis notebook
-├── retail_cleaned.csv               ← Cleaned dataset
-├── discount_tier_summary.csv        ← Revenue vs margin by tier
-├── pricing_recommendations.csv      ← Per-category max discount
-├── ab_test_results.csv              ← A/B test significance
-├── pricing_dashboard_screenshot.png ← Power BI dashboard
-└── README.md
-
----
 ## Dashboard
 <img width="1285" height="725" alt="image" src="https://github.com/user-attachments/assets/9e9aabcf-24c0-4f95-bece-84011612804a" />
 
