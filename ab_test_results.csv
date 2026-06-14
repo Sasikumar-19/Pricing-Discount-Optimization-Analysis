@@ -1,0 +1,9 @@
+Category,Control_Avg_Revenue,Treatment_Avg_Revenue,Revenue_Lift,p_value,Significant
+JAM,16.65,85.53,68.88,0.0,True
+BLACK/BLUE,17.9,229.11,211.21,0.0,True
+MEDIUM,12.08,1821.64,1809.55,0.000298,True
+ZINC,12.95,101.85,88.91,0.0,True
+BISCUIT,15.47,101.69,86.22,0.0,True
+TRAVEL,7.37,164.16,156.79,0.0,True
+SPOTTY,24.37,96.65,72.28,0.0,True
+KEY,7.04,178.15,171.1,0.0,True

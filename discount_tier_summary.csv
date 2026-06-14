@@ -1,0 +1,5 @@
+Discount_Tier,transaction_count,avg_revenue,total_revenue,total_margin,avg_discount_pct,margin_gap
+No Discount,935447,14.68,13731754.75,13731754.73,0.0,0.02
+Low (1-10%),21760,39.72,864256.12,795581.76,5.31,68674.36
+Medium (11-25%),47266,107.29,5071337.35,4303593.49,15.43,767743.86
+High (25%+),37197,35.09,1305246.35,691187.5,55.22,614058.85
