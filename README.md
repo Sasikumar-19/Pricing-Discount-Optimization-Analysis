@@ -51,7 +51,8 @@ pricing-discount-project/
 
 ---
 ## Dashboard
-"C:\Users\User\OneDrive\Desktop\Projects\Pricing & discount optimization analysis\Pricing dashboard screenshot.png"
+<img width="1285" height="725" alt="image" src="https://github.com/user-attachments/assets/9e9aabcf-24c0-4f95-bece-84011612804a" />
+
 ---
 
 ## 🔬 Methodology
