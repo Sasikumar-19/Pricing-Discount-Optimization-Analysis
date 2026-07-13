@@ -73,4 +73,4 @@ Along  with 3 actionable recommendations.
 
 ## 👤 About
 Built by **AVALA NAGA VENKATA SASI KUMAR** | June 2026
-🔗 https://www.linkedin.com/in/sasikumar19 | 📧 anvsasikumar19gmail.com
+🔗 https://www.linkedin.com/in/sasikumar19 | 📧 anvsasikumar19@gmail.com
