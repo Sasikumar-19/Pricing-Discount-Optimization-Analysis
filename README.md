@@ -23,8 +23,8 @@ negative, and which categories actually respond to discounts?**
 |---|---|
 | Transactions analysed | 1M+ |
 | Margin trap threshold | **2.8% discount** |
-| Inelastic categories | **5 of 322** — avoid discounting |
-| Highly elastic categories | **281** — priority discount targets |
+| Inelastic categories | **8 of 322** — avoid discounting |
+| Highly elastic categories | **284** — priority discount targets |
 | A/B test result | **0.000000 < 0.05** — statistically significant |
 | Cohen's d (effect size) | **0.7686** ([Medium]) |
 
