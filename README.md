@@ -25,7 +25,7 @@ negative, and which categories actually respond to discounts?**
 | Margin trap threshold | **2.8% discount** |
 | Inelastic categories | **8 of 322** — avoid discounting |
 | Highly elastic categories | **284** — priority discount targets |
-| A/B test result | **0.000000 < 0.05** — statistically significant |
+| A/B test result | **p<0.001** — statistically significant |
 | Cohen's d (effect size) | **0.7686** ([Medium]) |
 
 ---
@@ -62,7 +62,7 @@ optimal max discount per category.
 
 ### Step 5 — A/B Test Simulation
 Control = full price | Treatment = discounted.
-t-test p-value = 0.000000. Cohen's d = 0.7686 ([Medium]).
+t-test p-value < 0.001. Cohen's d = 0.7686 ([Medium]).
 Per-category tests identified [X] categories with significant lift.
 
 ### Step 6 — Dashboard 
